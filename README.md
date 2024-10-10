@@ -19,4 +19,4 @@ Features
 
 Installation
 
-1. Clone or download the repository()
+1. Clone or download the repository(https://github.com/TehreemFatimaNasir/Quran-Api)
